@@ -2,7 +2,6 @@
 Exercício NattyOrNot da DIO
 
 
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
 teste do Eleven Labs
